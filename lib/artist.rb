@@ -7,10 +7,8 @@ class Artist
   end
   
    def posts 
-     
-     
-   
-   end
+     @posts
+    end
 end
   
   
