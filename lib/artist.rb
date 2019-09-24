@@ -6,6 +6,7 @@ class Artist
   end
   
    def posts 
+     
    
    end
 end
