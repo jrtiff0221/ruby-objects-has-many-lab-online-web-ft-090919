@@ -3,10 +3,11 @@ class Artist
   
   def initialize(name)
     @name = name 
-    
+     @posts = []
   end
   
    def posts 
+     
      
    
    end
